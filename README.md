@@ -9,7 +9,7 @@ We decided to redirect the Sonda output to a matcher, which produces correct mat
 As a matcher, we used the class-based disambiguation approach presented in [1], also referred to Serimi. 
 
 ## Installation 
-Serimi was implemented in Ruby. We recommend you install JRuby version of Ruby, using the RVM version manager. 
+Sonda+Serimi was implemented in Ruby. We recommend you install JRuby version of Ruby, using the RVM version manager. 
 For more information about RVM, visit:
 
 https://rvm.io/
